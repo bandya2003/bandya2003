@@ -11,12 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [https://bandya2003.github.io/](https://bandya2003.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@bandya2003](https://medium.com/@bandya2003)
+- 📝 I regularly write articles on [https://hashnode.com/@bandya2003](https://hashnode.com/@bandya20030) & [https://medium.com/@bandya2003](https://medium.com/@bandya2003) 
 
 - 💬 Ask me about **Android , WebD ,**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@bandya2003/how-to-make-your-1st-pull-request-f9f26652c541
+https://bandyablogs.hashnode.dev/unleashing-the-power-of-react-native-a-step-by-step-guide-to-installing-on-windows
+https://bandyablogs.hashnode.dev/how-to-start-your-first-react-native-app-and-debugging
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
