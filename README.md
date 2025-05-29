@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bandya2003.github.io/](https://bandya2003.github.io/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@bandya2003](https://hashnode.com/@bandya20030) & [https://medium.com/@bandya2003](https://medium.com/@bandya2003) 
+- 📝 I regularly write articles on [https://hashnode.com/@bandya2003](https://hashnode.com/@bandya2003) & [https://medium.com/@bandya2003](https://medium.com/@bandya2003) 
 
 - 💬 Ask me about **Android , WebD ,**
 
