@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native , Next js ,Cloud**
 
-- 👨‍💻 All of my projects are available at [https://bandya2003.github.io/](https://bandya2003.github.io/)
+- 👨‍💻 All of my projects are available at [Here](sumantjadhav.me/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@bandya2003](https://hashnode.com/@bandya2003) & [https://medium.com/@bandya2003](https://medium.com/@bandya2003) 
 
